@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <external-cache-path
+        name="cache"
+        path="camera" />
+
+    <external-path
+        name="files_root"
+        path="Android/data/${applicationId}/" />
+
+    <external-path name="external_files" path="."/>
+
+    <root-path
+        name="root"
+        path="/" />
+    <files-path name="app_flutter" path="." />
+    <files-path name="files" path="." />
+</paths>
